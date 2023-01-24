@@ -1,2 +1,2 @@
 # clock
-Analog clock using HTML,CSS and Javascript
+Dynamic Clock Created using HTML , CSS , JavaScript.
